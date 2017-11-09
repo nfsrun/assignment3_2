@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/BarberShop.cpp
+BarberShop.h
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/BarberShop.h
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/BarberShop.h
+iostream
+-
+Customer.h
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/Customer.h
+LinkedStack.h
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/LinkedStack.h
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/Customer.h
+iostream
+-
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/LinkedStack.h
+iostream
+-
+
