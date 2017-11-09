@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/BarberShop.cpp" "/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_2/cmake-build-debug/CMakeFiles/assignment3_2.dir/BarberShop.cpp.o"
+  "/cygdrive/c/Users/super/Dropbox/assignment3_2/BarberShop.cpp" "/cygdrive/c/Users/super/Dropbox/assignment3_2/cmake-build-debug/CMakeFiles/assignment3_2.dir/BarberShop.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -27,7 +27,6 @@ public:
 
 //addCustomer method adds a customer to the LinkedStack s1.
 void BarberShop::addCustomer(Customer &customer) {
-
     this->s1.push(customer);
 }
 
